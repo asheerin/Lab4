@@ -195,5 +195,9 @@ public class Main {
 
         System.out.print("Your number is " + decimalNumber + " in decimal");
 
+        /* github is very confusing and it
+        is hard to learn how to download
+        it and use it when everyone has
+        a different computer :) */
     }
 }
